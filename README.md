@@ -29,6 +29,36 @@ Throughout the project, I encounter a lot of bugs, which involves AndroidMainfes
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
+# Project 3 - *InstaBook*
+
+**InstaBook** is a photo sharing app similar to Instagram but using Parse as its backend.
+
+Time spent: **9** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [X] User can view the last 20 posts submitted to "Instagram".
+- [X] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='instaBook_walkthrough_part2.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+## Notes
+
+I had to spent most of the time refactoring my previous code because my code was in android and not androidx. I had some errors afterward and had to look it up and debug it. I wish I had more time add more feature. I will definitely come back and fix it up so it look more like "Instagram".
+
+## Open-source libraries used
+
+- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
+- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
