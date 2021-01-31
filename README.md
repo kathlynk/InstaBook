@@ -47,7 +47,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='instaBook_walkthrough_part2.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='instaBook_walkthrough_part12.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
